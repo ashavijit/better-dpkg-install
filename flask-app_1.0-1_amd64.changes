@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sun, 12 Mar 2023 04:14:04 +0530
+Source: flask-app
+Binary: flask-app
+Architecture: source amd64
+Version: 1.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Avijit Sen <avijit69@unknown>
+Changed-By: Avijit Sen <avijit69@unknown>
+Description:
+ flask-app  - <insert up to 60 chars description>
+Changes:
+ flask-app (1.0-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 9735b3b7225635e4a9d904c11fe222c7dfbdee7a 819 flask-app_1.0-1.dsc
+ 0c2b482530b7212c396705dd699ed3c30dddbee5 168 flask-app_1.0.orig.tar.xz
+ acf4a75e86456c5cb9b9bb46af760fec12f5f5bc 7888 flask-app_1.0-1.debian.tar.xz
+ 0a49dbdc6e7cc09ea4651bc4e2c761667374b261 5424 flask-app_1.0-1_amd64.buildinfo
+ 5612170f8b50aa5ebb2cb6d8e9b90fb4c0622e12 2348 flask-app_1.0-1_amd64.deb
+Checksums-Sha256:
+ 6de94a6dc389c2165800871dbef4d729b6e8b049f9939fcf6bfbf26aeb7f5fef 819 flask-app_1.0-1.dsc
+ dcf0de5a7eeb6d2d2c92ab5fd665b48512d1c12471583551131eade2c3719d23 168 flask-app_1.0.orig.tar.xz
+ 64ad254a178ec25fe291d682fdce3be1d3ba068afd98e31e96201d8cb1e69ac8 7888 flask-app_1.0-1.debian.tar.xz
+ 3a94e264f92c0cb721d60151bd1cc3677097ab8c9513b3462c5dbb5c053290a7 5424 flask-app_1.0-1_amd64.buildinfo
+ e31f0d2a9eb6ffa7e12cc7f9e185c3f772ffe6eb735b3d93db19be6580757e8a 2348 flask-app_1.0-1_amd64.deb
+Files:
+ 5f450c5cb10fd138f0b4806f29b202ba 819 unknown optional flask-app_1.0-1.dsc
+ af039b55315ebb1fdd1da00e648c1e98 168 unknown optional flask-app_1.0.orig.tar.xz
+ d7dbde74f18c5e90b45d1902e36c8e04 7888 unknown optional flask-app_1.0-1.debian.tar.xz
+ 9c0ac50ce2d5e7128cb183c95f4d88b9 5424 unknown optional flask-app_1.0-1_amd64.buildinfo
+ 3b98db7f09a2d64b8177825f719048cb 2348 unknown optional flask-app_1.0-1_amd64.deb
